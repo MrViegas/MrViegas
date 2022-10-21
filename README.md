@@ -1,15 +1,11 @@
-<h1 align="left">Salve, Salve Devs! Eu Sou o Kayo Silva 🖐</h1>
+<h1 align="left">Eu sou o Lucas Viegas</h1>
 
 
-- 🔥 Desenvolvedor FullStack Pleno & Instrutor focado em ajudar pessoas que estão iniciando na programação
+-  Estudante Full-Stack pelo curso One Bit Code
 
-- 🔭 Atualmente estou trabalhando como Analista de Tecnologia na [Deloitte](https://www.linkedin.com/company/deloitte/)
+-  Estudante de Engenharia da Computação pela Faculdade Descomplica
 
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu [Portifólio](https://storied-cascaron-808411.netlify.app/)
-
-- ▶️ Posto vídeos regularmente em [youtube.com/KayoSilva](https://www.youtube.com/channel/UCOBc2arqOXF_unilVsuVgvw)
-
-- 💬 Respondo perguntas sobre *JavaScript, HTML, CSS, SQL, Node.JS, ReactJS, React-Native*
+-  Atualmente estou trabalhando como Auxiliar Administrativo no [Grupo All Nations](https://www.linkedin.com/company/grupoallnations/)
 
 
 <br><br>
