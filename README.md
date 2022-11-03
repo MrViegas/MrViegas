@@ -32,9 +32,9 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MrViegas&show_icons=true&theme=radical" alt="KayoSilva19's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MrViegas&show_icons=true&theme=radical" alt="MrViegas's stats"/>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSilva19&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrViegas&layout=compact&theme=tokyonight" alt="MrViegas's most languages"/>
 </p>
 
 <br><br>
