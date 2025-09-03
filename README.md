@@ -1,11 +1,9 @@
 <h1 align="left">Eu sou o Lucas Viegas</h1>
 
 
--  Estudante Full-Stack pelo curso One Bit Code
+-  Estudante Ciência de Dados na Universidade Estácio de Sá
 
--  Estudante de Engenharia da Computação pela Faculdade Descomplica
-
--  Atualmente estou trabalhando como Auxiliar Administrativo no [Grupo All Nations](https://www.linkedin.com/company/grupoallnations/)
+-  Atualmente estou trabalhando como Analista Administrativo no [Orizon](https://www.linkedin.com/company/orizon/posts/?feedView=all)
 
 
 <br><br>
